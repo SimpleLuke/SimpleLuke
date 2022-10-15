@@ -12,7 +12,9 @@ I am a web developer who loves building websites.
 *   🚀  I'm currently working on [Smart Brain: Face Recognition App](https://smart-brain1uk3.herokuapp.com/)
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  I love reading board game rulebooks### Skills 
+*   ⚡  I love reading board game rulebooks
+ 
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
