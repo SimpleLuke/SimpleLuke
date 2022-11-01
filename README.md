@@ -9,7 +9,7 @@ I am a web developer who loves building websites.
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
-*   🚀  I'm currently working on [Smart Brain: Face Recognition App](https://smart-brain1uk3.herokuapp.com/)
+*   🚀  I'm currently working on [Crwn Clothing E-commerce Site](https://github.com/SimpleLuke/crwn-clothing)
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I love reading board game rulebooks
