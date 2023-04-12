@@ -10,8 +10,8 @@ I am a web developer who loves building websites.
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
 *   🚀  I'm currently working on [Japanese Learning RPG](https://github.com/SimpleLuke/japanese-learning-RPG)
-*   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on Projects
+*   🧠  I'm learning TypeScript
+*   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
 *   ⚡  I love bouldering
  
 ### Skills 
