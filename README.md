@@ -9,7 +9,7 @@ I am a web developer who loves building websites.
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
-*   🚀  I'm currently working on [Japanese Learning RPG](https://github.com/SimpleLuke/japanese-learning-RPG)
+*   🚀  I'm currently working on [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce) & [AI Recognition App](https://github.com/SimpleLuke/Face-Recognition-App)
 *   🧠  I'm learning TypeScript
 *   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
 *   ⚡  I love bouldering
