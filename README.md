@@ -4,7 +4,7 @@ Hi! My name is Luke Lai
 Software Engineer
 -------------
 
-I am a web developer who loves building websites.
+<!-- I am a web developer who loves building websites. -->
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
