@@ -1,7 +1,7 @@
 Hi! My name is Luke Lai
 ================================================================================================================================
 
-Web Developer
+Software Engineer
 -------------
 
 I am a web developer who loves building websites.
@@ -9,10 +9,11 @@ I am a web developer who loves building websites.
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
-*   🚀  I'm currently working on [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce) & [AI Recognition App](https://github.com/SimpleLuke/Face-Recognition-App)
+*   📖  I'm currently reading [Eloquent JavaScript](https://eloquentjavascript.net/)
 *   🧠  I'm learning TypeScript
 *   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
 *   ⚡  I love bouldering
+<!-- *   🚀  I'm currently working on [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce) -->
  
 ### Skills 
 <p align="left">
@@ -38,6 +39,8 @@ I am a web developer who loves building websites.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SimpleLuke"><img src="https://github-readme-stats.vercel.app/api?username=SimpleLuke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SimpleLuke's GitHub stats" /></a><a href="http://www.github.com/SimpleLuke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleLuke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SimpleLuke"><img src="https://github-readme-stats.vercel.app/api?username=SimpleLuke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SimpleLuke's GitHub stats" /></a>
+
+<!-- <a href="http://www.github.com/SimpleLuke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleLuke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="https://github.com/SimpleLuke" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleLuke&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
