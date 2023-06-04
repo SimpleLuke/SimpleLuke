@@ -10,11 +10,12 @@ Software Engineer
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
 *   ✏️ Read my technical blog posts at [Medium](https://medium.com/@lukelai.dev)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
+*   🚀  I'm currently building [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch)
 *   📖  I'm currently studying [Eloquent JavaScript](https://eloquentjavascript.net/) (See my code [here](https://github.com/SimpleLuke/Eloquent-JavaScript/))
 *   🧠  I'm learning [TypeScript](https://github.com/SimpleLuke/e-commerce)
 *   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
 *   ⚡  I love bouldering
-<!-- *   🚀  I'm currently working on [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce) -->
+
  
 ### Skills 
 <p align="left">
