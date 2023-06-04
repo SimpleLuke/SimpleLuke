@@ -8,6 +8,7 @@ Software Engineer
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Portfolio](http://lukelai.tech)
+*   ✏️ Read my technical blog posts at [Medium](https://medium.com/@lukelai.dev)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
 *   📖  I'm currently studying [Eloquent JavaScript](https://eloquentjavascript.net/) (See my code [here](https://github.com/SimpleLuke/Eloquent-JavaScript/))
 *   🧠  I'm learning [TypeScript](https://github.com/SimpleLuke/e-commerce)
