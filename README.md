@@ -1,10 +1,10 @@
 Hi! My name is Luke Lai
 ================================================================================================================================
 
-Software developer, former Actor, lifelong learner, and amateur boulderer.
+Software engineer, former Actor, lifelong learner, and amateur boulderer.
 -------------
 
-I am currently studying in 42 London.
+I am currently studying Software Development at 42 London.
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Website](http://lukelai.tech)
