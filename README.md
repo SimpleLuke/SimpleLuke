@@ -4,18 +4,18 @@ Hi! My name is Luke Lai
 Software developer, former Actor, lifelong learner, and amateur boulderer.
 -------------
 
-I recently graduated from [Makers Coding Academy](https://makers.tech/) with prior software development experience in front-end web development. Acting and software development are very similar. They combined arts and craftsmanship to bring people together. As a software developer and an actor, I turn innovative ideas into tangible software by putting my soul, youth and lower back pain.
+I am currently studying in 42 London.
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Website](http://lukelai.tech)
 *   🗂️ Browser all my projects at [Projects Catalog](https://github.com/SimpleLuke/Projects-Catalog)
 *   ✏️ Read my technical blog posts at [Medium](https://medium.com/@lukelai.dev)
 *   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
-*   🚀  I'm currently building [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch)
-*   📖  I'm currently reading [Eloquent JavaScript](https://eloquentjavascript.net/) again. (See my code [here](https://github.com/SimpleLuke/Eloquent-JavaScript/))
-*   🧠  I'm learning [TypeScript](https://github.com/SimpleLuke/e-commerce)
+<!-- *   🚀  I'm currently building [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch) -->
+*   📖  I'm currently reading [Structure and Interpretation of Computer Programs, 2nd Edition](https://www.amazon.co.uk/Structure-Interpretation-Computer-Electrical-Engineering/dp/0262510871)
+*   🧠  I'm learning C & C++
 *   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
-*   ⚡  I love bouldering
+*   ⚡  I recently fall in love with Tetris
 
  
 <!-- ### Skills 
