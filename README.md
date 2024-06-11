@@ -8,10 +8,8 @@ I am currently studying Software Development at 42 London.
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [My Website](http://lukelai.tech)
-*   🗂️ Browser all my projects at [Projects Catalog](https://github.com/SimpleLuke/Projects-Catalog)
-<!-- *   ✏️ Read my technical blog posts at [Medium](https://medium.com/@lukelai.dev) -->
-*   ✉️  You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
-<!-- *   🚀  I'm currently building [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch) -->
+*   🗂️  Browse all my projects at [Projects Catalog](https://github.com/SimpleLuke/Projects-Catalog)
+*   ✉️   You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
 *   📖  I'm currently reading [Structure and Interpretation of Computer Programs, 2nd Edition](https://www.amazon.co.uk/Structure-Interpretation-Computer-Electrical-Engineering/dp/0262510871)
 *   🧠  I'm learning C & C++
 *   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
