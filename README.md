@@ -12,8 +12,6 @@ I am currently studying Software Development at 42 London.
 *   ✉️   You can contact me at [lukelai.dev@gmail.com](mailto:lukelai.dev@gmail.com)
 *   📖  I'm currently reading [Structure and Interpretation of Computer Programs, 2nd Edition](https://www.amazon.co.uk/Structure-Interpretation-Computer-Electrical-Engineering/dp/0262510871)
 *   🧠  I'm learning C & C++
-*   🤝  GitHub [CV](https://github.com/SimpleLuke/cv)
-*   ⚡  I recently fall in love with Tetris
 
  
 <!-- ### Skills 
